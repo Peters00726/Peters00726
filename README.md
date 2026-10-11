@@ -25,7 +25,7 @@ Meu objetivo é adquirir experiência prática, participar de projetos desafiado
 
 ## 📫 Vamos nos conectar?
 
-- **GitHub:** [github.com/SEU-USUARIO](https://github.com/SEU-USUARIO)
+- **GitHub:** https://github.com/Peters00726
 - **LinkedIn:** https://www.linkedin.com/in/dev-gabriel-peter/
 
 ---
